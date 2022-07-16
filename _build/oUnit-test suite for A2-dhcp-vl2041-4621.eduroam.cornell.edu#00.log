@@ -1,0 +1,470 @@
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Runner: processes
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Chooser: simple
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration suite_name = "test suite for A2"
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration cache_filename = "/Users/parthvakil/pacCaml/PacCaml/_build/oUnit-$(suite_name).cache"
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration run_gc_full_major = "true"
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration display = "true"
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration results_style_1_X = "false"
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration testdata_dir = "/Users/parthvakil/pacCaml/PacCaml/data"
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration health_check_interval = "1."
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration verbose = "false"
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration chooser = "simple"
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration output_html_dir = "none"
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration processes_kill_period = "5."
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration runner = "processes"
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration shards = "2"
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration processes_grace_period = "5."
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration log_encoding = "utf-8"
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration output_junit_file = "none"
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration ci = "false"
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Configuration output_file = "/Users/parthvakil/pacCaml/PacCaml/_build/oUnit-$(suite_name)-$(shard_id).log"
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Using 2 workers maximum.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Starting worker number dhcp-vl2041-4621.eduroam.cornell.edu#01.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-4621.eduroam.cornell.edu#01 started.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Starting worker number dhcp-vl2041-4621.eduroam.cornell.edu#02.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-4621.eduroam.cornell.edu#02 started.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:1:w is up, test suite for A2:0:a is left.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:0:a is left.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:1:w is up, test suite for A2:0:a is left.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:1:w is up.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:1:w is up, test suite for A2:0:a is left.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:0:a is left is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:1:w is up, test suite for A2:0:a is left.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:0:a is left.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:1:w is up is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:1:w is up, test suite for A2:0:a is left.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:1:w is up.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:2:s is down, test suite for A2:1:w is up.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:3:d is right, test suite for A2:2:s is down.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:2:s is down.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:3:d is right, test suite for A2:2:s is down.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:3:d is right.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:3:d is right, test suite for A2:2:s is down.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:2:s is down is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:3:d is right, test suite for A2:2:s is down.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:2:s is down.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:3:d is right is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:3:d is right, test suite for A2:2:s is down.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:3:d is right.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:4:if no key is pressed then no move is made, test suite for A2:3:d is right.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:5:if random not key is pressed then no move is made, test suite for A2:4:if no key is pressed then no move is made.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:4:if no key is pressed then no move is made.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:5:if random not key is pressed then no move is made, test suite for A2:4:if no key is pressed then no move is made.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:5:if random not key is pressed then no move is made.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:5:if random not key is pressed then no move is made, test suite for A2:4:if no key is pressed then no move is made.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:4:if no key is pressed then no move is made is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:5:if random not key is pressed then no move is made, test suite for A2:4:if no key is pressed then no move is made.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:4:if no key is pressed then no move is made.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:5:if random not key is pressed then no move is made is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:5:if random not key is pressed then no move is made, test suite for A2:4:if no key is pressed then no move is made.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:5:if random not key is pressed then no move is made.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:6:if no q is pressed then quit, test suite for A2:5:if random not key is pressed then no move is made.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:6:if no q is pressed then quit.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:7:current tile is 0 paccaml, test suite for A2:6:if no q is pressed then quit.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:7:current tile is 0 paccaml.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:7:current tile is 0 paccaml, test suite for A2:6:if no q is pressed then quit.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:6:if no q is pressed then quit is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:7:current tile is 0 paccaml, test suite for A2:6:if no q is pressed then quit.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:6:if no q is pressed then quit.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:7:current tile is 0 paccaml, test suite for A2:6:if no q is pressed then quit.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:8:current direction is Down paccamnl, test suite for A2:7:current tile is 0 paccaml.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:7:current tile is 0 paccaml is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:8:current direction is Down paccamnl, test suite for A2:7:current tile is 0 paccaml.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:7:current tile is 0 paccaml.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:8:current direction is Down paccamnl.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:8:current direction is Down paccamnl, test suite for A2:7:current tile is 0 paccaml.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:9:up is valid move, test suite for A2:8:current direction is Down paccamnl.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:9:up is valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:9:up is valid move, test suite for A2:8:current direction is Down paccamnl.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:8:current direction is Down paccamnl is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:9:up is valid move, test suite for A2:8:current direction is Down paccamnl.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:8:current direction is Down paccamnl.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:9:up is valid move, test suite for A2:8:current direction is Down paccamnl.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:10:left is not valid move, test suite for A2:9:up is valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:9:up is valid move is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:10:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:10:left is not valid move, test suite for A2:9:up is valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:9:up is valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:10:left is not valid move, test suite for A2:9:up is valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:11:current tile is 5, test suite for A2:10:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:11:current tile is 5.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:11:current tile is 5, test suite for A2:10:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:10:left is not valid move is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:11:current tile is 5, test suite for A2:10:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:10:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:11:current tile is 5, test suite for A2:10:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:12:current direction is Down paccamnl, test suite for A2:11:current tile is 5.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:11:current tile is 5 is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:12:current direction is Down paccamnl.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:12:current direction is Down paccamnl, test suite for A2:11:current tile is 5.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:11:current tile is 5.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:12:current direction is Down paccamnl, test suite for A2:11:current tile is 5.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:13:Right is valid move, test suite for A2:12:current direction is Down paccamnl.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:13:Right is valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:13:Right is valid move, test suite for A2:12:current direction is Down paccamnl.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:12:current direction is Down paccamnl is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:13:Right is valid move, test suite for A2:12:current direction is Down paccamnl.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:12:current direction is Down paccamnl.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:13:Right is valid move, test suite for A2:12:current direction is Down paccamnl.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:14:left is not valid move, test suite for A2:13:Right is valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:13:Right is valid move is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:14:left is not valid move, test suite for A2:13:Right is valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:13:Right is valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:14:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:14:left is not valid move, test suite for A2:13:Right is valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:15:current tile is 0, test suite for A2:14:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:15:current tile is 0.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:15:current tile is 0, test suite for A2:14:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:14:left is not valid move is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:15:current tile is 0, test suite for A2:14:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:14:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:15:current tile is 0, test suite for A2:14:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:16:up is valid move, test suite for A2:15:current tile is 0.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:15:current tile is 0 is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:16:up is valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:16:up is valid move, test suite for A2:15:current tile is 0.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:15:current tile is 0.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:16:up is valid move, test suite for A2:15:current tile is 0.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:17:left is not valid move, test suite for A2:16:up is valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:17:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:17:left is not valid move, test suite for A2:16:up is valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:16:up is valid move is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:17:left is not valid move, test suite for A2:16:up is valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:16:up is valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:17:left is not valid move, test suite for A2:16:up is valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:18:off returns same state, test suite for A2:17:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:18:off returns same state.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:18:off returns same state, test suite for A2:17:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:17:left is not valid move is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:18:off returns same state, test suite for A2:17:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:17:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:18:off returns same state, test suite for A2:17:left is not valid move.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:19:test eat_map returns true when eat, test suite for A2:18:off returns same state.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:19:test eat_map returns true when eat.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:19:test eat_map returns true when eat, test suite for A2:18:off returns same state.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:18:off returns same state is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:19:test eat_map returns true when eat, test suite for A2:18:off returns same state.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:18:off returns same state.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:19:test eat_map returns true when eat, test suite for A2:18:off returns same state.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:20:test eat_map returns false when no eat, test suite for A2:19:test eat_map returns true when eat.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:20:test eat_map returns false when no eat.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:20:test eat_map returns false when no eat, test suite for A2:19:test eat_map returns true when eat.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:19:test eat_map returns true when eat is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:20:test eat_map returns false when no eat, test suite for A2:19:test eat_map returns true when eat.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:19:test eat_map returns true when eat.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:20:test eat_map returns false when no eat, test suite for A2:19:test eat_map returns true when eat.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:21:test check collision, test suite for A2:20:test eat_map returns false when no eat.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:21:test check collision.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:21:test check collision, test suite for A2:20:test eat_map returns false when no eat.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:20:test eat_map returns false when no eat is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:21:test check collision, test suite for A2:20:test eat_map returns false when no eat.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:20:test eat_map returns false when no eat.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:21:test check collision, test suite for A2:20:test eat_map returns false when no eat.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:22:test check collision on different sample state, test suite for A2:21:test check collision.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:22:test check collision on different sample state.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:22:test check collision on different sample state, test suite for A2:21:test check collision.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:21:test check collision is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:22:test check collision on different sample state, test suite for A2:21:test check collision.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:21:test check collision.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:22:test check collision on different sample state, test suite for A2:21:test check collision.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:23:test chek collision final, test suite for A2:22:test check collision on different sample state.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:23:test chek collision final.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:23:test chek collision final, test suite for A2:22:test check collision on different sample state.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:22:test check collision on different sample state is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:23:test chek collision final, test suite for A2:22:test check collision on different sample state.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:22:test check collision on different sample state.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:23:test chek collision final, test suite for A2:22:test check collision on different sample state.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:24:test get_id/get_tile, test suite for A2:23:test chek collision final.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:24:test get_id/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:24:test get_id/get_tile, test suite for A2:23:test chek collision final.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:23:test chek collision final is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:24:test get_id/get_tile, test suite for A2:23:test chek collision final.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:23:test chek collision final.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:24:test get_id/get_tile, test suite for A2:23:test chek collision final.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:25:test passability/get_tile, test suite for A2:24:test get_id/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:25:test passability/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:25:test passability/get_tile, test suite for A2:24:test get_id/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:24:test get_id/get_tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:25:test passability/get_tile, test suite for A2:24:test get_id/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:24:test get_id/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:25:test passability/get_tile, test suite for A2:24:test get_id/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:26:test
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I:       food/get_tile, test suite for A2:25:test passability/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:26:test
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I:       food/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:26:test
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I:       food/get_tile, test suite for A2:25:test passability/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:25:test passability/get_tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:26:test
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I:       food/get_tile, test suite for A2:25:test passability/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:25:test passability/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:26:test
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I:       food/get_tile, test suite for A2:25:test passability/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:27:test get_id/get_tile, test suite for A2:26:test
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I:       food/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:27:test get_id/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:27:test get_id/get_tile, test suite for A2:26:test
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I:       food/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:26:test
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I:       food/get_tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:27:test get_id/get_tile, test suite for A2:26:test
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I:       food/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:26:test
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I:       food/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:27:test get_id/get_tile, test suite for A2:26:test
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I:       food/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:28:test passability/get_tile, test suite for A2:27:test get_id/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:28:test passability/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:28:test passability/get_tile, test suite for A2:27:test get_id/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:27:test get_id/get_tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:28:test passability/get_tile, test suite for A2:27:test get_id/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:27:test get_id/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:28:test passability/get_tile, test suite for A2:27:test get_id/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:29:test food/get_tile, test suite for A2:28:test passability/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:29:test food/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:29:test food/get_tile, test suite for A2:28:test passability/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:28:test passability/get_tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:29:test food/get_tile, test suite for A2:28:test passability/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:28:test passability/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:29:test food/get_tile, test suite for A2:28:test passability/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:30:test North, test suite for A2:29:test food/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:30:test North.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:30:test North, test suite for A2:29:test food/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:29:test food/get_tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:30:test North, test suite for A2:29:test food/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:29:test food/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:30:test North, test suite for A2:29:test food/get_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:31:test SOuth, test suite for A2:30:test North.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:31:test SOuth.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:31:test SOuth, test suite for A2:30:test North.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:30:test North is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:31:test SOuth, test suite for A2:30:test North.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:30:test North.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:31:test SOuth, test suite for A2:30:test North.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:32:test East, test suite for A2:31:test SOuth.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:32:test East.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:32:test East, test suite for A2:31:test SOuth.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:31:test SOuth is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:32:test East, test suite for A2:31:test SOuth.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:31:test SOuth.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:32:test East, test suite for A2:31:test SOuth.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:33:test West, test suite for A2:32:test East.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:33:test West.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:33:test West, test suite for A2:32:test East.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:32:test East is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:33:test West, test suite for A2:32:test East.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:32:test East.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:33:test West, test suite for A2:32:test East.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:34:test South fail impassible, test suite for A2:33:test West.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:34:test South fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:34:test South fail impassible, test suite for A2:33:test West.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:33:test West is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:34:test South fail impassible, test suite for A2:33:test West.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:33:test West.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:34:test South fail impassible, test suite for A2:33:test West.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:35:test North fail impassible, test suite for A2:34:test South fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:35:test North fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:35:test North fail impassible, test suite for A2:34:test South fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:34:test South fail impassible is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:35:test North fail impassible, test suite for A2:34:test South fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:34:test South fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:35:test North fail impassible, test suite for A2:34:test South fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:36:test East fail impassible, test suite for A2:35:test North fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:36:test East fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:36:test East fail impassible, test suite for A2:35:test North fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:35:test North fail impassible is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:36:test East fail impassible, test suite for A2:35:test North fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:35:test North fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:36:test East fail impassible, test suite for A2:35:test North fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:37:test West fail impassible, test suite for A2:36:test East fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:37:test West fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:37:test West fail impassible, test suite for A2:36:test East fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:36:test East fail impassible is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:37:test West fail impassible, test suite for A2:36:test East fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:36:test East fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:37:test West fail impassible, test suite for A2:36:test East fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:38:test South Wrap, test suite for A2:37:test West fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:38:test South Wrap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:38:test South Wrap, test suite for A2:37:test West fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:37:test West fail impassible is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:38:test South Wrap, test suite for A2:37:test West fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:37:test West fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:38:test South Wrap, test suite for A2:37:test West fail impassible.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:39:test North warp, test suite for A2:38:test South Wrap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:39:test North warp.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:39:test North warp, test suite for A2:38:test South Wrap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:38:test South Wrap is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:39:test North warp, test suite for A2:38:test South Wrap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:38:test South Wrap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:39:test North warp, test suite for A2:38:test South Wrap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:40:test East Wrap, test suite for A2:39:test North warp.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:40:test East Wrap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:40:test East Wrap, test suite for A2:39:test North warp.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:39:test North warp is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:40:test East Wrap, test suite for A2:39:test North warp.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:39:test North warp.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:40:test East Wrap, test suite for A2:39:test North warp.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:41:test West weap, test suite for A2:40:test East Wrap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:41:test West weap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:41:test West weap, test suite for A2:40:test East Wrap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:40:test East Wrap is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:41:test West weap, test suite for A2:40:test East Wrap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:40:test East Wrap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:41:test West weap, test suite for A2:40:test East Wrap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:42:test num_cols, test suite for A2:41:test West weap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:42:test num_cols.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:42:test num_cols, test suite for A2:41:test West weap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:41:test West weap is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:42:test num_cols, test suite for A2:41:test West weap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:41:test West weap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:42:test num_cols, test suite for A2:41:test West weap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:43:test numpoints, test suite for A2:42:test num_cols.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:43:test numpoints.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:43:test numpoints, test suite for A2:42:test num_cols.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:42:test num_cols is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:43:test numpoints, test suite for A2:42:test num_cols.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:42:test num_cols.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:43:test numpoints, test suite for A2:42:test num_cols.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:44:test numpoints pacmap, test suite for A2:43:test numpoints.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:44:test numpoints pacmap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:44:test numpoints pacmap, test suite for A2:43:test numpoints.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:43:test numpoints is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:44:test numpoints pacmap, test suite for A2:43:test numpoints.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:43:test numpoints.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:44:test numpoints pacmap, test suite for A2:43:test numpoints.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:45:test start_tile, test suite for A2:44:test numpoints pacmap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:45:test start_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:45:test start_tile, test suite for A2:44:test numpoints pacmap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:44:test numpoints pacmap is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:45:test start_tile, test suite for A2:44:test numpoints pacmap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:44:test numpoints pacmap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:45:test start_tile, test suite for A2:44:test numpoints pacmap.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:46:test ghosts start_tile, test suite for A2:45:test start_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:45:test start_tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:46:test ghosts start_tile, test suite for A2:45:test start_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:45:test start_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:46:test ghosts start_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:46:test ghosts start_tile, test suite for A2:45:test start_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:47:Same start and end tile returns [], test suite for A2:46:test ghosts start_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:47:Same start and end tile returns [].
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:47:Same start and end tile returns [], test suite for A2:46:test ghosts start_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:46:test ghosts start_tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:47:Same start and end tile returns [], test suite for A2:46:test ghosts start_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:46:test ghosts start_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:47:Same start and end tile returns [] is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:47:Same start and end tile returns [], test suite for A2:46:test ghosts start_tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:47:Same start and end tile returns [].
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:48:Move up one tile, test suite for A2:47:Same start and end tile returns [].
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:49:Move left one tile, test suite for A2:48:Move up one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:48:Move up one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:49:Move left one tile, test suite for A2:48:Move up one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:49:Move left one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:49:Move left one tile, test suite for A2:48:Move up one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:48:Move up one tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:49:Move left one tile, test suite for A2:48:Move up one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:48:Move up one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Test test suite for A2:49:Move left one tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:49:Move left one tile, test suite for A2:48:Move up one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:49:Move left one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:50:Move right one tile, test suite for A2:49:Move left one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Still 2 tests running : test suite for A2:51:Move down one tile, test suite for A2:50:Move right one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:51:Move down one tile, test suite for A2:50:Move right one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Start test test suite for A2:50:Move right one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: Start test test suite for A2:51:Move down one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Still 2 tests running : test suite for A2:51:Move down one tile, test suite for A2:50:Move right one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:51:Move down one tile, test suite for A2:50:Move right one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 E: Test test suite for A2:51:Move down one tile has failed.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 E: expected: ["1"]
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 E: but got: ["22"; "1"; "21"; "21"; "1"; "22"; "22"; "1"; "21"; "21"; "21"; "21"; "41"; "21"; "21"; "41"; "22"; "22"; "41"; "21"; "41"; "21"; "21"; "21"; "41"; "22"; "22"; "22"; "22"; "22"; "22"; "22"; "22"; "41"; "21"; "21"; "41"; "22"; "22"] in test test suite for A2:51:Move down one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 E: 
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Still 2 tests running : test suite for A2:51:Move down one tile, test suite for A2:50:Move right one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:51:Move down one tile, test suite for A2:50:Move right one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#02 I: End test test suite for A2:51:Move down one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Still 2 tests running : test suite for A2:51:Move down one tile, test suite for A2:50:Move right one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:51:Move down one tile, test suite for A2:50:Move right one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Still 1 tests running : test suite for A2:50:Move right one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 1 tests running: test suite for A2:50:Move right one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: Test test suite for A2:50:Move right one tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Still 1 tests running : test suite for A2:50:Move right one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 1 tests running: test suite for A2:50:Move right one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#01 I: End test test suite for A2:50:Move right one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Still 1 tests running : test suite for A2:50:Move right one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 1 tests running: test suite for A2:50:Move right one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: 0 tests running: .
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-4621.eduroam.cornell.edu#02 has ended.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-4621.eduroam.cornell.edu#01 has ended.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Used 2 worker during test execution.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Run 26 tests with shard dhcp-vl2041-4621.eduroam.cornell.edu#01.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Run 26 tests with shard dhcp-vl2041-4621.eduroam.cornell.edu#02.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Check health of shard dhcp-vl2041-4621.eduroam.cornell.edu#01, 1 times.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Check health of shard dhcp-vl2041-4621.eduroam.cornell.edu#02, 4 times.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: ==============
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Summary:
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:50:Move right one tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 E: Test test suite for A2:51:Move down one tile has failed.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 E: expected: ["1"]
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 E: but got: ["22"; "1"; "21"; "21"; "1"; "22"; "22"; "1"; "21"; "21"; "21"; "21"; "41"; "21"; "21"; "41"; "22"; "22"; "41"; "21"; "41"; "21"; "21"; "21"; "41"; "22"; "22"; "22"; "22"; "22"; "22"; "22"; "22"; "41"; "21"; "21"; "41"; "22"; "22"] in test test suite for A2:51:Move down one tile.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 E: 
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:49:Move left one tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:48:Move up one tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:47:Same start and end tile returns [] is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:46:test ghosts start_tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:45:test start_tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:44:test numpoints pacmap is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:43:test numpoints is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:42:test num_cols is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:41:test West weap is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:40:test East Wrap is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:39:test North warp is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:38:test South Wrap is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:37:test West fail impassible is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:36:test East fail impassible is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:35:test North fail impassible is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:34:test South fail impassible is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:33:test West is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:32:test East is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:31:test SOuth is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:30:test North is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:29:test food/get_tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:28:test passability/get_tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:27:test get_id/get_tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:26:test
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I:       food/get_tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:25:test passability/get_tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:24:test get_id/get_tile is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:23:test chek collision final is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:22:test check collision on different sample state is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:21:test check collision is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:20:test eat_map returns false when no eat is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:19:test eat_map returns true when eat is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:18:off returns same state is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:17:left is not valid move is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:16:up is valid move is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:15:current tile is 0 is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:14:left is not valid move is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:13:Right is valid move is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:12:current direction is Down paccamnl is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:11:current tile is 5 is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:10:left is not valid move is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:9:up is valid move is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:8:current direction is Down paccamnl is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:7:current tile is 0 paccaml is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:6:if no q is pressed then quit is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:5:if random not key is pressed then no move is made is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:4:if no key is pressed then no move is made is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:3:d is right is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:2:s is down is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:1:w is up is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Test test suite for A2:0:a is left is successful.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Ran: 52 tests in: 0.12 seconds.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Cases: 52.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Tried: 52.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Errors: 0.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Failures: 1.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Skip: 0.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Todo: 0.
+2021-12-10T22:18:43+00:00 dhcp-vl2041-4621.eduroam.cornell.edu#00 I: Timeout: 0.

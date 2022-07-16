@@ -1,0 +1,3 @@
+(executable
+ (name main)
+ (libraries Paccaml graphics ANSITerminal))

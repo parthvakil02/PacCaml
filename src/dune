@@ -1,0 +1,6 @@
+(library
+ (name paccaml)
+ (public_name Paccaml)
+ (libraries graphics csv)
+ (instrumentation
+  (backend bisect_ppx)))

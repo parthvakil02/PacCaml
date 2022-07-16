@@ -1,0 +1,8 @@
+Hello! Here are the directions to run this project. 
+
+1. Install the OCAML graphics module. For Mac Users, you can run the command opam install graphics. For Windows users, opam install graphics, and then set up a Gwsl appropriately to host the image
+2. Run the command opam install csv 
+3. Run make build
+4. Run make play. 
+
+The last two steps need to be done every time you want to run the project. The first two only need to be done initially. 

@@ -1,0 +1,3 @@
+(executable
+ (name test)
+ (libraries Paccaml graphics ounit2))

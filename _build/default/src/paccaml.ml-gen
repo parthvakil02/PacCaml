@@ -1,0 +1,34 @@
+(** @canonical Paccaml.Author *)
+module Author = Paccaml__Author
+
+
+(** @canonical Paccaml.Command *)
+module Command = Paccaml__Command
+
+
+(** @canonical Paccaml.Gamestate *)
+module Gamestate = Paccaml__Gamestate
+
+
+(** @canonical Paccaml.Ghosts *)
+module Ghosts = Paccaml__Ghosts
+
+
+(** @canonical Paccaml.History *)
+module History = Paccaml__History
+
+
+(** @canonical Paccaml.Levels *)
+module Levels = Paccaml__Levels
+
+
+(** @canonical Paccaml.Mapbuilder *)
+module Mapbuilder = Paccaml__Mapbuilder
+
+
+(** @canonical Paccaml.Pc_graphics *)
+module Pc_graphics = Paccaml__Pc_graphics
+
+
+(** @canonical Paccaml.State *)
+module State = Paccaml__State
